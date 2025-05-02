@@ -1,0 +1,24 @@
+{
+  "name": "sample-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranshinde24/sample-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kiranshinde24/sample-web-app/issues"
+  },
+  "homepage": "https://github.com/kiranshinde24/sample-web-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
